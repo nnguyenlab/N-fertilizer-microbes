@@ -1,0 +1,337 @@
+Phylum,Abundance,Treatment,Time,Treatment_Time
+Acidobacteria,1083,Control,0,Control_0
+Acidobacteria,1464,Control,1,Control_1
+Acidobacteria,937,Control,2,Control_2
+Acidobacteria,871,Control,3,Control_3
+Acidobacteria,992,Control,4,Control_4
+Acidobacteria,904,Control,5,Control_5
+Acidobacteria,986,Control,6,Control_6
+Acidobacteria,1403,Compost,0,Compost_0
+Acidobacteria,1406,Compost,1,Compost_1
+Acidobacteria,1290,Compost,2,Compost_2
+Acidobacteria,1186,Compost,3,Compost_3
+Acidobacteria,916,Compost,4,Compost_4
+Acidobacteria,925,Compost,5,Compost_5
+Acidobacteria,1142,Compost,6,Compost_6
+Acidobacteria,1313,Urea,0,Urea_0
+Acidobacteria,1213,Urea,1,Urea_1
+Acidobacteria,902,Urea,2,Urea_2
+Acidobacteria,1113,Urea,3,Urea_3
+Acidobacteria,892,Urea,4,Urea_4
+Acidobacteria,775,Urea,5,Urea_5
+Acidobacteria,1022,Urea,6,Urea_6
+Actinobacteria,3375,Control,0,Control_0
+Actinobacteria,2501,Control,1,Control_1
+Actinobacteria,2195,Control,2,Control_2
+Actinobacteria,1865,Control,3,Control_3
+Actinobacteria,1561,Control,4,Control_4
+Actinobacteria,1799,Control,5,Control_5
+Actinobacteria,1523,Control,6,Control_6
+Actinobacteria,2349,Compost,0,Compost_0
+Actinobacteria,1770,Compost,1,Compost_1
+Actinobacteria,1327,Compost,2,Compost_2
+Actinobacteria,1662,Compost,3,Compost_3
+Actinobacteria,1702,Compost,4,Compost_4
+Actinobacteria,1245,Compost,5,Compost_5
+Actinobacteria,1293,Compost,6,Compost_6
+Actinobacteria,3030,Urea,0,Urea_0
+Actinobacteria,2353,Urea,1,Urea_1
+Actinobacteria,1804,Urea,2,Urea_2
+Actinobacteria,1878,Urea,3,Urea_3
+Actinobacteria,1602,Urea,4,Urea_4
+Actinobacteria,1766,Urea,5,Urea_5
+Actinobacteria,1278,Urea,6,Urea_6
+Armatimonadetes,30,Control,0,Control_0
+Armatimonadetes,46,Control,1,Control_1
+Armatimonadetes,56,Control,2,Control_2
+Armatimonadetes,79,Control,3,Control_3
+Armatimonadetes,56,Control,4,Control_4
+Armatimonadetes,78,Control,5,Control_5
+Armatimonadetes,90,Control,6,Control_6
+Armatimonadetes,19,Compost,0,Compost_0
+Armatimonadetes,42,Compost,1,Compost_1
+Armatimonadetes,61,Compost,2,Compost_2
+Armatimonadetes,44,Compost,3,Compost_3
+Armatimonadetes,64,Compost,4,Compost_4
+Armatimonadetes,40,Compost,5,Compost_5
+Armatimonadetes,85,Compost,6,Compost_6
+Armatimonadetes,37,Urea,0,Urea_0
+Armatimonadetes,49,Urea,1,Urea_1
+Armatimonadetes,108,Urea,2,Urea_2
+Armatimonadetes,57,Urea,3,Urea_3
+Armatimonadetes,59,Urea,4,Urea_4
+Armatimonadetes,53,Urea,5,Urea_5
+Armatimonadetes,89,Urea,6,Urea_6
+Bacteroidetes,183,Control,0,Control_0
+Bacteroidetes,172,Control,1,Control_1
+Bacteroidetes,367,Control,2,Control_2
+Bacteroidetes,382,Control,3,Control_3
+Bacteroidetes,391,Control,4,Control_4
+Bacteroidetes,290,Control,5,Control_5
+Bacteroidetes,426,Control,6,Control_6
+Bacteroidetes,261,Compost,0,Compost_0
+Bacteroidetes,293,Compost,1,Compost_1
+Bacteroidetes,389,Compost,2,Compost_2
+Bacteroidetes,297,Compost,3,Compost_3
+Bacteroidetes,439,Compost,4,Compost_4
+Bacteroidetes,360,Compost,5,Compost_5
+Bacteroidetes,418,Compost,6,Compost_6
+Bacteroidetes,127,Urea,0,Urea_0
+Bacteroidetes,282,Urea,1,Urea_1
+Bacteroidetes,379,Urea,2,Urea_2
+Bacteroidetes,402,Urea,3,Urea_3
+Bacteroidetes,491,Urea,4,Urea_4
+Bacteroidetes,376,Urea,5,Urea_5
+Bacteroidetes,497,Urea,6,Urea_6
+Chlamydiae,0,Control,0,Control_0
+Chlamydiae,1,Control,1,Control_1
+Chlamydiae,3,Control,2,Control_2
+Chlamydiae,9,Control,3,Control_3
+Chlamydiae,12,Control,4,Control_4
+Chlamydiae,16,Control,5,Control_5
+Chlamydiae,4,Control,6,Control_6
+Chlamydiae,1,Compost,0,Compost_0
+Chlamydiae,2,Compost,1,Compost_1
+Chlamydiae,1,Compost,2,Compost_2
+Chlamydiae,4,Compost,3,Compost_3
+Chlamydiae,1,Compost,4,Compost_4
+Chlamydiae,17,Compost,5,Compost_5
+Chlamydiae,5,Compost,6,Compost_6
+Chlamydiae,0,Urea,0,Urea_0
+Chlamydiae,5,Urea,1,Urea_1
+Chlamydiae,1,Urea,2,Urea_2
+Chlamydiae,12,Urea,3,Urea_3
+Chlamydiae,11,Urea,4,Urea_4
+Chlamydiae,9,Urea,5,Urea_5
+Chlamydiae,13,Urea,6,Urea_6
+Chlorobi,0,Control,0,Control_0
+Chlorobi,13,Control,1,Control_1
+Chlorobi,5,Control,2,Control_2
+Chlorobi,4,Control,3,Control_3
+Chlorobi,8,Control,4,Control_4
+Chlorobi,1,Control,5,Control_5
+Chlorobi,19,Control,6,Control_6
+Chlorobi,0,Compost,0,Compost_0
+Chlorobi,10,Compost,1,Compost_1
+Chlorobi,10,Compost,2,Compost_2
+Chlorobi,8,Compost,3,Compost_3
+Chlorobi,15,Compost,4,Compost_4
+Chlorobi,12,Compost,5,Compost_5
+Chlorobi,7,Compost,6,Compost_6
+Chlorobi,2,Urea,0,Urea_0
+Chlorobi,4,Urea,1,Urea_1
+Chlorobi,11,Urea,2,Urea_2
+Chlorobi,5,Urea,3,Urea_3
+Chlorobi,19,Urea,4,Urea_4
+Chlorobi,10,Urea,5,Urea_5
+Chlorobi,10,Urea,6,Urea_6
+Chloroflexi,410,Control,0,Control_0
+Chloroflexi,279,Control,1,Control_1
+Chloroflexi,423,Control,2,Control_2
+Chloroflexi,389,Control,3,Control_3
+Chloroflexi,430,Control,4,Control_4
+Chloroflexi,392,Control,5,Control_5
+Chloroflexi,519,Control,6,Control_6
+Chloroflexi,321,Compost,0,Compost_0
+Chloroflexi,311,Compost,1,Compost_1
+Chloroflexi,362,Compost,2,Compost_2
+Chloroflexi,358,Compost,3,Compost_3
+Chloroflexi,428,Compost,4,Compost_4
+Chloroflexi,443,Compost,5,Compost_5
+Chloroflexi,490,Compost,6,Compost_6
+Chloroflexi,347,Urea,0,Urea_0
+Chloroflexi,309,Urea,1,Urea_1
+Chloroflexi,304,Urea,2,Urea_2
+Chloroflexi,308,Urea,3,Urea_3
+Chloroflexi,455,Urea,4,Urea_4
+Chloroflexi,422,Urea,5,Urea_5
+Chloroflexi,580,Urea,6,Urea_6
+Crenarchaeota (Archaea),162,Control,0,Control_0
+Crenarchaeota (Archaea),170,Control,1,Control_1
+Crenarchaeota (Archaea),217,Control,2,Control_2
+Crenarchaeota (Archaea),120,Control,3,Control_3
+Crenarchaeota (Archaea),141,Control,4,Control_4
+Crenarchaeota (Archaea),194,Control,5,Control_5
+Crenarchaeota (Archaea),133,Control,6,Control_6
+Crenarchaeota (Archaea),117,Compost,0,Compost_0
+Crenarchaeota (Archaea),152,Compost,1,Compost_1
+Crenarchaeota (Archaea),99,Compost,2,Compost_2
+Crenarchaeota (Archaea),140,Compost,3,Compost_3
+Crenarchaeota (Archaea),144,Compost,4,Compost_4
+Crenarchaeota (Archaea),92,Compost,5,Compost_5
+Crenarchaeota (Archaea),110,Compost,6,Compost_6
+Crenarchaeota (Archaea),157,Urea,0,Urea_0
+Crenarchaeota (Archaea),234,Urea,1,Urea_1
+Crenarchaeota (Archaea),167,Urea,2,Urea_2
+Crenarchaeota (Archaea),143,Urea,3,Urea_3
+Crenarchaeota (Archaea),105,Urea,4,Urea_4
+Crenarchaeota (Archaea),167,Urea,5,Urea_5
+Crenarchaeota (Archaea),113,Urea,6,Urea_6
+Cyanobacteria,15,Control,0,Control_0
+Cyanobacteria,63,Control,1,Control_1
+Cyanobacteria,151,Control,2,Control_2
+Cyanobacteria,695,Control,3,Control_3
+Cyanobacteria,636,Control,4,Control_4
+Cyanobacteria,254,Control,5,Control_5
+Cyanobacteria,559,Control,6,Control_6
+Cyanobacteria,10,Compost,0,Compost_0
+Cyanobacteria,60,Compost,1,Compost_1
+Cyanobacteria,122,Compost,2,Compost_2
+Cyanobacteria,161,Compost,3,Compost_3
+Cyanobacteria,581,Compost,4,Compost_4
+Cyanobacteria,568,Compost,5,Compost_5
+Cyanobacteria,432,Compost,6,Compost_6
+Cyanobacteria,10,Urea,0,Urea_0
+Cyanobacteria,35,Urea,1,Urea_1
+Cyanobacteria,788,Urea,2,Urea_2
+Cyanobacteria,264,Urea,3,Urea_3
+Cyanobacteria,626,Urea,4,Urea_4
+Cyanobacteria,437,Urea,5,Urea_5
+Cyanobacteria,734,Urea,6,Urea_6
+Firmicutes,119,Control,0,Control_0
+Firmicutes,127,Control,1,Control_1
+Firmicutes,98,Control,2,Control_2
+Firmicutes,98,Control,3,Control_3
+Firmicutes,65,Control,4,Control_4
+Firmicutes,20,Control,5,Control_5
+Firmicutes,27,Control,6,Control_6
+Firmicutes,348,Compost,0,Compost_0
+Firmicutes,104,Compost,1,Compost_1
+Firmicutes,72,Compost,2,Compost_2
+Firmicutes,82,Compost,3,Compost_3
+Firmicutes,106,Compost,4,Compost_4
+Firmicutes,26,Compost,5,Compost_5
+Firmicutes,60,Compost,6,Compost_6
+Firmicutes,140,Urea,0,Urea_0
+Firmicutes,77,Urea,1,Urea_1
+Firmicutes,44,Urea,2,Urea_2
+Firmicutes,46,Urea,3,Urea_3
+Firmicutes,59,Urea,4,Urea_4
+Firmicutes,31,Urea,5,Urea_5
+Firmicutes,44,Urea,6,Urea_6
+Gemmatimonadetes,184,Control,0,Control_0
+Gemmatimonadetes,366,Control,1,Control_1
+Gemmatimonadetes,296,Control,2,Control_2
+Gemmatimonadetes,267,Control,3,Control_3
+Gemmatimonadetes,241,Control,4,Control_4
+Gemmatimonadetes,360,Control,5,Control_5
+Gemmatimonadetes,300,Control,6,Control_6
+Gemmatimonadetes,185,Compost,0,Compost_0
+Gemmatimonadetes,338,Compost,1,Compost_1
+Gemmatimonadetes,264,Compost,2,Compost_2
+Gemmatimonadetes,474,Compost,3,Compost_3
+Gemmatimonadetes,252,Compost,4,Compost_4
+Gemmatimonadetes,314,Compost,5,Compost_5
+Gemmatimonadetes,316,Compost,6,Compost_6
+Gemmatimonadetes,290,Urea,0,Urea_0
+Gemmatimonadetes,302,Urea,1,Urea_1
+Gemmatimonadetes,361,Urea,2,Urea_2
+Gemmatimonadetes,304,Urea,3,Urea_3
+Gemmatimonadetes,294,Urea,4,Urea_4
+Gemmatimonadetes,294,Urea,5,Urea_5
+Gemmatimonadetes,276,Urea,6,Urea_6
+Nitrospirae,84,Control,0,Control_0
+Nitrospirae,227,Control,1,Control_1
+Nitrospirae,205,Control,2,Control_2
+Nitrospirae,152,Control,3,Control_3
+Nitrospirae,136,Control,4,Control_4
+Nitrospirae,168,Control,5,Control_5
+Nitrospirae,229,Control,6,Control_6
+Nitrospirae,138,Compost,0,Compost_0
+Nitrospirae,159,Compost,1,Compost_1
+Nitrospirae,133,Compost,2,Compost_2
+Nitrospirae,111,Compost,3,Compost_3
+Nitrospirae,191,Compost,4,Compost_4
+Nitrospirae,187,Compost,5,Compost_5
+Nitrospirae,180,Compost,6,Compost_6
+Nitrospirae,156,Urea,0,Urea_0
+Nitrospirae,275,Urea,1,Urea_1
+Nitrospirae,146,Urea,2,Urea_2
+Nitrospirae,205,Urea,3,Urea_3
+Nitrospirae,167,Urea,4,Urea_4
+Nitrospirae,190,Urea,5,Urea_5
+Nitrospirae,187,Urea,6,Urea_6
+Other Bacteria,130,Control,0,Control_0
+Other Bacteria,107,Control,1,Control_1
+Other Bacteria,130,Control,2,Control_2
+Other Bacteria,158,Control,3,Control_3
+Other Bacteria,159,Control,4,Control_4
+Other Bacteria,206,Control,5,Control_5
+Other Bacteria,201,Control,6,Control_6
+Other Bacteria,147,Compost,0,Compost_0
+Other Bacteria,137,Compost,1,Compost_1
+Other Bacteria,138,Compost,2,Compost_2
+Other Bacteria,140,Compost,3,Compost_3
+Other Bacteria,176,Compost,4,Compost_4
+Other Bacteria,129,Compost,5,Compost_5
+Other Bacteria,192,Compost,6,Compost_6
+Other Bacteria,124,Urea,0,Urea_0
+Other Bacteria,140,Urea,1,Urea_1
+Other Bacteria,99,Urea,2,Urea_2
+Other Bacteria,172,Urea,3,Urea_3
+Other Bacteria,146,Urea,4,Urea_4
+Other Bacteria,174,Urea,5,Urea_5
+Other Bacteria,162,Urea,6,Urea_6
+Planctomycetes,219,Control,0,Control_0
+Planctomycetes,302,Control,1,Control_1
+Planctomycetes,386,Control,2,Control_2
+Planctomycetes,403,Control,3,Control_3
+Planctomycetes,342,Control,4,Control_4
+Planctomycetes,431,Control,5,Control_5
+Planctomycetes,425,Control,6,Control_6
+Planctomycetes,314,Compost,0,Compost_0
+Planctomycetes,420,Compost,1,Compost_1
+Planctomycetes,370,Compost,2,Compost_2
+Planctomycetes,368,Compost,3,Compost_3
+Planctomycetes,384,Compost,4,Compost_4
+Planctomycetes,388,Compost,5,Compost_5
+Planctomycetes,460,Compost,6,Compost_6
+Planctomycetes,268,Urea,0,Urea_0
+Planctomycetes,317,Urea,1,Urea_1
+Planctomycetes,285,Urea,2,Urea_2
+Planctomycetes,393,Urea,3,Urea_3
+Planctomycetes,379,Urea,4,Urea_4
+Planctomycetes,437,Urea,5,Urea_5
+Planctomycetes,417,Urea,6,Urea_6
+Proteobacteria,2453,Control,0,Control_0
+Proteobacteria,2517,Control,1,Control_1
+Proteobacteria,2848,Control,2,Control_2
+Proteobacteria,2798,Control,3,Control_3
+Proteobacteria,3108,Control,4,Control_4
+Proteobacteria,3194,Control,5,Control_5
+Proteobacteria,2798,Control,6,Control_6
+Proteobacteria,2778,Compost,0,Compost_0
+Proteobacteria,3080,Compost,1,Compost_1
+Proteobacteria,3632,Compost,2,Compost_2
+Proteobacteria,3230,Compost,3,Compost_3
+Proteobacteria,2922,Compost,4,Compost_4
+Proteobacteria,3492,Compost,5,Compost_5
+Proteobacteria,3037,Compost,6,Compost_6
+Proteobacteria,2420,Urea,0,Urea_0
+Proteobacteria,2748,Urea,1,Urea_1
+Proteobacteria,2829,Urea,2,Urea_2
+Proteobacteria,3018,Urea,3,Urea_3
+Proteobacteria,3032,Urea,4,Urea_4
+Proteobacteria,3128,Urea,5,Urea_5
+Proteobacteria,2884,Urea,6,Urea_6
+Verrucomicrobia,33,Control,0,Control_0
+Verrucomicrobia,115,Control,1,Control_1
+Verrucomicrobia,139,Control,2,Control_2
+Verrucomicrobia,165,Control,3,Control_3
+Verrucomicrobia,181,Control,4,Control_4
+Verrucomicrobia,146,Control,5,Control_5
+Verrucomicrobia,182,Control,6,Control_6
+Verrucomicrobia,69,Compost,0,Compost_0
+Verrucomicrobia,174,Compost,1,Compost_1
+Verrucomicrobia,187,Compost,2,Compost_2
+Verrucomicrobia,202,Compost,3,Compost_3
+Verrucomicrobia,133,Compost,4,Compost_4
+Verrucomicrobia,208,Compost,5,Compost_5
+Verrucomicrobia,206,Compost,6,Compost_6
+Verrucomicrobia,57,Urea,0,Urea_0
+Verrucomicrobia,113,Urea,1,Urea_1
+Verrucomicrobia,243,Urea,2,Urea_2
+Verrucomicrobia,129,Urea,3,Urea_3
+Verrucomicrobia,123,Urea,4,Urea_4
+Verrucomicrobia,173,Urea,5,Urea_5
+Verrucomicrobia,157,Urea,6,Urea_6

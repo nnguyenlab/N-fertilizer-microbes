@@ -1,0 +1,19 @@
+SampleID,repeat,BarcodeSequence,LinkerPrimerSequence,PrimerNumber,PotNumber,Experiment,Gene,TimePoint,Soil,Treatment,Group,Description
+2.D.2,2.D.2,GTCTCGTACAGTGAGT,NA,220,2,Radish,ITS,1,Oxixols,Compost,Compost,Crop 1_ITS
+2.D.4,2.D.4,CTCGTCGACAGTGAGT,NA,222,5,Radish,ITS,1,Oxixols,Control,Other,Crop 1_ITS
+2.D.5,2.D.5,ACACGATCCAGTGAGT,NA,223,7,Radish,ITS,1,Oxixols,Urea,Other,Crop 1_ITS
+2.E.3,2.E.3,GTGACTCTCGTACTCA,NA,227,12,Radish,ITS,1,Oxixols,Control,Other,Crop 1_ITS
+2.E.4,2.E.4,GTCTCGTACGTACTCA,NA,228,13,Radish,ITS,1,Oxixols,Urea,Other,Crop 1_ITS
+2.E.6,2.E.6,CTCGTCGACGTACTCA,NA,230,16,Radish,ITS,1,Oxixols,Compost,Compost,Crop 1_ITS
+2.F.2,2.F.2,TATCTGACCGTACTCA,NA,232,21,Radish,ITS,1,Oxixols,Compost,Compost,Crop 1_ITS
+2.F.5,2.F.5,GTGACTCTCTACGCAG,NA,235,25,Radish,ITS,1,Oxixols,Urea,Other,Crop 1_ITS
+2.F.6,2.F.6,GTCTCGTACTACGCAG,NA,236,26,Radish,ITS,1,Oxixols,Control,Other,Crop 1_ITS
+3.D.2,3.D.2,CTCGTCGACTACGCAG,NA,238,2,Radish,ITS,2,Oxixols,Compost,Compost,Crop 2_ITS
+3.D.4,3.D.4,TATCTGACCTACGCAG,NA,240,5,Radish,ITS,2,Oxixols,Control,Other,Crop 2_ITS
+3.D.5,3.D.5,TATAGTAGGGAGACTA,NA,241,7,Radish,ITS,2,Oxixols,Urea,Other,Crop 2_ITS
+3.E.3,3.E.3,CGAGACGTGGAGACTA,NA,245,12,Radish,ITS,2,Oxixols,Control,Other,Crop 2_ITS
+3.E.4,3.E.4,CTCGTCGAGGAGACTA,NA,246,13,Radish,ITS,2,Oxixols,Urea,Other,Crop 2_ITS
+3.E.6,3.E.6,TATCTGACGGAGACTA,NA,248,16,Radish,ITS,2,Oxixols,Compost,Compost,Crop 2_ITS
+3.F.2,3.F.2,TAGTAACGGTCGCTCG,NA,250,21,Radish,ITS,2,Oxixols,Compost,Compost,Crop 2_ITS
+3.F.5,3.F.5,CGAGACGTGTCGCTCG,NA,253,25,Radish,ITS,2,Oxixols,Urea,Other,Crop 2_ITS
+3.F.6,3.F.6,CTCGTCGAGTCGCTCG,NA,254,26,Radish,ITS,2,Oxixols,Control,Other,Crop 2_ITS

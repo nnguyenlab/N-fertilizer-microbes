@@ -1,0 +1,105 @@
+#SampleID,repeat,BarcodeSequence,LinkerPrimerSequence,PrimerNumber,PotNumber,Experiment,Gene,Time Point,Soil,Group,Treatment,Paper,Description
+1.A.2,1.A.2,CAGATAGTAAGTCGAG,NA,98,2,Radish,16S,0,Oxixols,Compost,Compost,n-fert,Initial_16S
+1.B.6,1.B.6,ACACGCAGATACTTCG,NA,108,16,Radish,16S,0,Oxixols,Compost,Compost,n-fert,Initial_16S
+1.C.2,1.C.2,CACTCACGATACTTCG,NA,110,21,Radish,16S,0,Oxixols,Compost,Compost,n-fert,Initial_16S
+7.A.2,7.A.2,CGTACGATTCGCTACG,NA,185,2,Radish,16S,6,Oxixols,Compost,Compost,n-fert,Crop 6_16S
+7.B.5,7.B.5,TATAGTAGAACTCTCG,NA,193,16,Radish,16S,6,Oxixols,Compost,Compost,n-fert,Crop 6_16S
+7.C.1,7.C.1,TAGTAACGAACTCTCG,NA,194,21,Radish,16S,6,Oxixols,Compost,Compost,n-fert,Crop 6_16S
+6.A.1,6.A.1,AGATATCCTACGAGCA,NA,175,2,Radish,16S,5,Oxixols,Compost,Compost,n-fert,Crop 5_16S
+6.B.3,6.B.3,ACACGCAGTCAGCGTT,NA,180,16,Radish,16S,5,Oxixols,Compost,Compost,n-fert,Crop 5_16S
+6.C.1,6.C.1,CTCGATGATCAGCGTT,NA,181,21,Radish,16S,5,Oxixols,Compost,Compost,n-fert,Crop 5_16S
+5.A.2,5.A.2,CGTACGATGTATACGC,NA,161,2,Radish,16S,4,Oxixols,Compost,Compost,n-fert,Crop 4_16S
+5.B.5,5.B.5,CGTACGATTACGAGCA,NA,169,16,Radish,16S,4,Oxixols,Compost,Compost,n-fert,Crop 4_16S
+5.C.1,5.C.1,CAGATAGTTACGAGCA,NA,170,21,Radish,16S,4,Oxixols,Compost,Compost,n-fert,Crop 4_16S
+4.A.1,4.A.1,AGATATCCGCGCACGT,NA,151,2,Radish,16S,3,Oxixols,Compost,Compost,n-fert,Crop 3_16S
+4.B.3,4.B.3,ACACGCAGGGTACTAT,NA,156,16,Radish,16S,3,Oxixols,Compost,Compost,n-fert,Crop 3_16S
+4.C.1,4.C.1,CTCGATGAGGTACTAT,NA,157,21,Radish,16S,3,Oxixols,Compost,Compost,n-fert,Crop 3_16S
+3.A.2,3.A.2,CACTCACGCGTAGATC,NA,134,2,Radish,16S,2,Oxixols,Compost,Compost,n-fert,Crop 2_16S
+3.B.6,3.B.6,ACGGTGTCCTCGTTAC,NA,144,16,Radish,16S,2,Oxixols,Compost,Compost,n-fert,Crop 2_16S
+3.C.2,3.C.2,CAGATAGTGCGCACGT,NA,146,21,Radish,16S,2,Oxixols,Compost,Compost,n-fert,Crop 2_16S
+2.A.2,2.A.2,ACACGCAGAGCTGCTA,NA,116,2,Radish,16S,1,Oxixols,Compost,Compost,n-fert,Crop 1_16S
+2.B.6,2.B.6,CACTCACGCATAGAGA,NA,126,16,Radish,16S,1,Oxixols,Compost,Compost,n-fert,Crop 1_16S
+2.C.2,2.C.2,ACGGTGTCCATAGAGA,NA,128,21,Radish,16S,1,Oxixols,Compost,Compost,n-fert,Crop 1_16S
+1.A.4,1.A.4,ACACGCAGAAGTCGAG,NA,100,5,Radish,16S,0,Oxixols,Other,Control,n-fert,Initial_16S
+1.B.3,1.B.3,CGTACGATATACTTCG,NA,105,12,Radish,16S,0,Oxixols,Other,Control,n-fert,Initial_16S
+1.C.6,1.C.6,CAGATAGTAGCTGCTA,NA,114,26,Radish,16S,0,Oxixols,Other,Control,n-fert,Initial_16S
+7.A.4,7.A.4,ACTCGCTATCGCTACG,NA,187,5,Radish,16S,6,Oxixols,Other,Control,n-fert,Crop 6_16S
+7.B.3,7.B.3,AGATATCCTCGCTACG,NA,191,12,Radish,16S,6,Oxixols,Other,Control,n-fert,Crop 6_16S
+7.C.5,7.C.5,CTCGTCGAAACTCTCG,NA,198,26,Radish,16S,6,Oxixols,Other,Control,n-fert,Crop 6_16S
+6.A.2,6.A.2,ACGGTGTCTACGAGCA,NA,176,5,Radish,16S,5,Oxixols,Other,Control,n-fert,Crop 5_16S
+6.B.1,6.B.1,CAGATAGTTCAGCGTT,NA,178,12,Radish,16S,5,Oxixols,Other,Control,n-fert,Crop 5_16S
+6.C.3,6.C.3,AGATATCCTCAGCGTT,NA,183,26,Radish,16S,5,Oxixols,Other,Control,n-fert,Crop 5_16S
+5.A.4,5.A.4,ACTCGCTAGTATACGC,NA,163,5,Radish,16S,4,Oxixols,Other,Control,n-fert,Crop 4_16S
+5.B.3,5.B.3,AGATATCCGTATACGC,NA,167,12,Radish,16S,4,Oxixols,Other,Control,n-fert,Crop 4_16S
+5.C.5,5.C.5,CACTCACGTACGAGCA,NA,174,26,Radish,16S,4,Oxixols,Other,Control,n-fert,Crop 4_16S
+4.A.2,4.A.2,ACGGTGTCGCGCACGT,NA,152,5,Radish,16S,3,Oxixols,Other,Control,n-fert,Crop 3_16S
+4.B.1,4.B.1,CAGATAGTGGTACTAT,NA,154,12,Radish,16S,3,Oxixols,Other,Control,n-fert,Crop 3_16S
+4.C.3,4.C.3,AGATATCCGGTACTAT,NA,159,26,Radish,16S,3,Oxixols,Other,Control,n-fert,Crop 3_16S
+3.A.4,3.A.4,ACGGTGTCCGTAGATC,NA,136,5,Radish,16S,2,Oxixols,Other,Control,n-fert,Crop 2_16S
+3.B.3,3.B.3,CTCGATGACTCGTTAC,NA,141,12,Radish,16S,2,Oxixols,Other,Control,n-fert,Crop 2_16S
+3.C.6,3.C.6,CACTCACGGCGCACGT,NA,150,26,Radish,16S,2,Oxixols,Other,Control,n-fert,Crop 2_16S
+2.A.4,2.A.4,CACTCACGAGCTGCTA,NA,118,5,Radish,16S,1,Oxixols,Other,Control,n-fert,Crop 1_16S
+2.B.3,2.B.3,ACTCGCTACATAGAGA,NA,123,12,Radish,16S,1,Oxixols,Other,Control,n-fert,Crop 1_16S
+2.C.6,2.C.6,ACACGCAGCGTAGATC,NA,132,26,Radish,16S,1,Oxixols,Other,Control,n-fert,Crop 1_16S
+16Spos,16Spos,TATCTGACAACTCTCG,NA,200,NA,16Spos,16Spos,16Spos,NA,,NA,other,16Spos_16Spos
+16Sneg,16Sneg,ACACGATCAACTCTCG,NA,199,NA,16Sneg,16Sneg,16Sneg,NA,,NA,other,16Sneg_16Sneg
+1.A.3,1.A.3,ACTCGCTAAAGTCGAG,NA,99,3,Radish,16S,0,Oxixols,Other,Sumagrow,other,Initial_16S
+1.B.1,1.B.1,AGATATCCAAGTCGAG,NA,103,10,Radish,16S,0,Oxixols,Other,Sumagrow,other,Initial_16S
+1.C.4,1.C.4,ACGGTGTCATACTTCG,NA,112,24,Radish,16S,0,Oxixols,Other,Sumagrow,other,Initial_16S
+7.A.3,7.A.3,CAGATAGTTCGCTACG,NA,186,3,Radish,16S,6,Oxixols,Other,Sumagrow,other,Crop 6_16S
+7.B.1,7.B.1,CTCGATGATCGCTACG,NA,189,10,Radish,16S,6,Oxixols,Other,Sumagrow,other,Crop 6_16S
+7.C.3,7.C.3,GTCTCGTAAACTCTCG,NA,196,24,Radish,16S,6,Oxixols,Other,Sumagrow,other,Crop 6_16S
+5.A.3,5.A.3,CAGATAGTGTATACGC,NA,162,3,Radish,16S,4,Oxixols,Other,Sumagrow,other,Crop 4_16S
+5.B.1,5.B.1,CTCGATGAGTATACGC,NA,165,10,Radish,16S,4,Oxixols,Other,Sumagrow,other,Crop 4_16S
+5.C.3,5.C.3,ACACGCAGTACGAGCA,NA,172,24,Radish,16S,4,Oxixols,Other,Sumagrow,other,Crop 4_16S
+3.A.3,3.A.3,AGATATCCCGTAGATC,NA,135,3,Radish,16S,2,Oxixols,Other,Sumagrow,other,Crop 2_16S
+3.B.1,3.B.1,ACTCGCTACTCGTTAC,NA,139,10,Radish,16S,2,Oxixols,Other,Sumagrow,other,Crop 2_16S
+3.C.4,3.C.4,ACACGCAGGCGCACGT,NA,148,24,Radish,16S,2,Oxixols,Other,Sumagrow,other,Crop 2_16S
+2.A.3,2.A.3,CTCGATGAAGCTGCTA,NA,117,3,Radish,16S,1,Oxixols,Other,Sumagrow,other,Crop 1_16S
+2.B.1,2.B.1,CGTACGATCATAGAGA,NA,121,10,Radish,16S,1,Oxixols,Other,Sumagrow,other,Crop 1_16S
+2.C.4,2.C.4,CAGATAGTCGTAGATC,NA,130,24,Radish,16S,1,Oxixols,Other,Sumagrow,other,Crop 1_16S
+1.A.1,1.A.1,CGTACGATAAGTCGAG,NA,97,1,Radish,16S,0,Oxixols,Compost,Sumagrow + Compost,other,Initial_16S
+1.B.2,1.B.2,ACGGTGTCAAGTCGAG,NA,104,11,Radish,16S,0,Oxixols,Compost,Sumagrow + Compost,other,Initial_16S
+1.C.3,1.C.3,AGATATCCATACTTCG,NA,111,22,Radish,16S,0,Oxixols,Compost,Sumagrow + Compost,other,Initial_16S
+7.A.1,7.A.1,ACGGTGTCTCAGCGTT,NA,184,1,Radish,16S,6,Oxixols,Compost,Sumagrow + Compost,other,Crop 6_16S
+7.B.2,7.B.2,CACTCACGTCGCTACG,NA,190,11,Radish,16S,6,Oxixols,Compost,Sumagrow + Compost,other,Crop 6_16S
+7.C.2,7.C.2,GTGACTCTAACTCTCG,NA,195,22,Radish,16S,6,Oxixols,Compost,Sumagrow + Compost,other,Crop 6_16S
+5.A.1,5.A.1,ACGGTGTCGGTACTAT,NA,160,1,Radish,16S,4,Oxixols,Compost,Sumagrow + Compost,other,Crop 4_16S
+5.B.2,5.B.2,CACTCACGGTATACGC,NA,166,11,Radish,16S,4,Oxixols,Compost,Sumagrow + Compost,other,Crop 4_16S
+5.C.2,5.C.2,ACTCGCTATACGAGCA,NA,171,22,Radish,16S,4,Oxixols,Compost,Sumagrow + Compost,other,Crop 4_16S
+3.A.1,3.A.1,CTCGATGACGTAGATC,NA,133,1,Radish,16S,2,Oxixols,Compost,Sumagrow + Compost,other,Crop 2_16S
+3.B.2,3.B.2,ACACGCAGCTCGTTAC,NA,140,11,Radish,16S,2,Oxixols,Compost,Sumagrow + Compost,other,Crop 2_16S
+3.C.3,3.C.3,ACTCGCTAGCGCACGT,NA,147,22,Radish,16S,2,Oxixols,Compost,Sumagrow + Compost,other,Crop 2_16S
+2.A.1,2.A.1,ACTCGCTAAGCTGCTA,NA,115,1,Radish,16S,1,Oxixols,Compost,Sumagrow + Compost,other,Crop 1_16S
+2.B.2,2.B.2,CAGATAGTCATAGAGA,NA,122,11,Radish,16S,1,Oxixols,Compost,Sumagrow + Compost,other,Crop 1_16S
+2.C.3,2.C.3,CGTACGATCGTAGATC,NA,129,22,Radish,16S,1,Oxixols,Compost,Sumagrow + Compost,other,Crop 1_16S
+1.A.6,1.A.6,CACTCACGAAGTCGAG,NA,102,8,Radish,16S,0,Oxixols,Other,Sumagrow + Urea,other,Initial_16S
+1.B.5,1.B.5,ACTCGCTAATACTTCG,NA,107,15,Radish,16S,0,Oxixols,Other,Sumagrow + Urea,other,Initial_16S
+1.C.1,1.C.1,CTCGATGAATACTTCG,NA,109,19,Radish,16S,0,Oxixols,Other,Sumagrow + Urea,other,Initial_16S
+3.A.6,3.A.6,CAGATAGTCTCGTTAC,NA,138,8,Radish,16S,2,Oxixols,Other,Sumagrow + Urea,other,Crop 2_16S
+3.B.5,3.B.5,AGATATCCCTCGTTAC,NA,143,15,Radish,16S,2,Oxixols,Other,Sumagrow + Urea,other,Crop 2_16S
+3.C.1,3.C.1,CGTACGATGCGCACGT,NA,145,19,Radish,16S,2,Oxixols,Other,Sumagrow + Urea,other,Crop 2_16S
+2.A.6,2.A.6,ACGGTGTCAGCTGCTA,NA,120,8,Radish,16S,1,Oxixols,Other,Sumagrow + Urea,other,Crop 1_16S
+2.B.5,2.B.5,CTCGATGACATAGAGA,NA,125,15,Radish,16S,1,Oxixols,Other,Sumagrow + Urea,other,Crop 1_16S
+2.C.1,2.C.1,AGATATCCCATAGAGA,NA,127,19,Radish,16S,1,Oxixols,Other,Sumagrow + Urea,other,Crop 1_16S
+1.A.5,1.A.5,CTCGATGAAAGTCGAG,NA,101,7,Radish,16S,0,Oxixols,Other,Urea,n-fert,Initial_16S
+1.B.4,1.B.4,CAGATAGTATACTTCG,NA,106,13,Radish,16S,0,Oxixols,Other,Urea,n-fert,Initial_16S
+1.C.5,1.C.5,CGTACGATAGCTGCTA,NA,113,25,Radish,16S,0,Oxixols,Other,Urea,n-fert,Initial_16S
+7.A.5,7.A.5,ACACGCAGTCGCTACG,NA,188,7,Radish,16S,6,Oxixols,Other,Urea,n-fert,Crop 6_16S
+7.B.4,7.B.4,ACGGTGTCTCGCTACG,NA,192,13,Radish,16S,6,Oxixols,Other,Urea,n-fert,Crop 6_16S
+7.C.4,7.C.4,CGAGACGTAACTCTCG,NA,197,25,Radish,16S,6,Oxixols,Other,Urea,n-fert,Crop 6_16S
+6.A.3,6.A.3,CGTACGATTCAGCGTT,NA,177,7,Radish,16S,5,Oxixols,Other,Urea,n-fert,Crop 5_16S
+6.B.2,6.B.2,ACTCGCTATCAGCGTT,NA,179,13,Radish,16S,5,Oxixols,Other,Urea,n-fert,Crop 5_16S
+6.C.2,6.C.2,CACTCACGTCAGCGTT,NA,182,25,Radish,16S,5,Oxixols,Other,Urea,n-fert,Crop 5_16S
+5.A.5,5.A.5,ACACGCAGGTATACGC,NA,164,7,Radish,16S,4,Oxixols,Other,Urea,n-fert,Crop 4_16S
+5.B.4,5.B.4,ACGGTGTCGTATACGC,NA,168,13,Radish,16S,4,Oxixols,Other,Urea,n-fert,Crop 4_16S
+5.C.4,5.C.4,CTCGATGATACGAGCA,NA,173,25,Radish,16S,4,Oxixols,Other,Urea,n-fert,Crop 4_16S
+4.A.3,4.A.3,CGTACGATGGTACTAT,NA,153,7,Radish,16S,3,Oxixols,Other,Urea,n-fert,Crop 3_16S
+4.B.2,4.B.2,ACTCGCTAGGTACTAT,NA,155,13,Radish,16S,3,Oxixols,Other,Urea,n-fert,Crop 3_16S
+4.C.2,4.C.2,CACTCACGGGTACTAT,NA,158,25,Radish,16S,3,Oxixols,Other,Urea,n-fert,Crop 3_16S
+3.A.5,3.A.5,CGTACGATCTCGTTAC,NA,137,7,Radish,16S,2,Oxixols,Other,Urea,n-fert,Crop 2_16S
+3.B.4,3.B.4,CACTCACGCTCGTTAC,NA,142,13,Radish,16S,2,Oxixols,Other,Urea,n-fert,Crop 2_16S
+3.C.5,3.C.5,CTCGATGAGCGCACGT,NA,149,25,Radish,16S,2,Oxixols,Other,Urea,n-fert,Crop 2_16S
+2.A.5,2.A.5,AGATATCCAGCTGCTA,NA,119,7,Radish,16S,1,Oxixols,Other,Urea,n-fert,Crop 1_16S
+2.B.4,2.B.4,ACACGCAGCATAGAGA,NA,124,13,Radish,16S,1,Oxixols,Other,Urea,n-fert,Crop 1_16S
+2.C.5,2.C.5,ACTCGCTACGTAGATC,NA,131,25,Radish,16S,1,Oxixols,Other,Urea,n-fert,Crop 1_16S
