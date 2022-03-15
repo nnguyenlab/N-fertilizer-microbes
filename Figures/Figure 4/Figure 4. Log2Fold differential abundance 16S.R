@@ -162,7 +162,7 @@ sig_table_C1_Phyla = unique(sig_table_C1$Phylum)
 sig_table_C1sub <- subset(sig_table_C1, Family!="N/A" & Phylum != "N/A" & Family!="" & Phylum !="")
 
 #Plots the logfold changes
-sig_table_C1subp = ggplot(sig_table_C1sub, aes(x=log2FoldChange, y=reorder(Genus,desc(Genus)), color=Phylum))  + geom_point(size=2, stroke = 1) + theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust=0.25)) + theme(legend.position="none") + ggtitle("Prokaryote taxa at C1 between Urea (left) vs compost (right)") + geom_vline(xintercept = 0, linetype = "solid", color = "black")
+sig_table_C1subp = ggplot(sig_table_C1sub, aes(x=log2FoldChange, y=reorder(Genus,desc(Genus)), color=Phylum, alpha=0.9))  + geom_point(size=2, stroke = 1) + theme(axis.text.x = element_text(angle = 90, hjust = 1, vjust=0.25)) + theme(legend.position="none") + ggtitle("Prokaryote taxa at C1 between Urea and compost") + geom_vline(xintercept = 0, linetype = "solid", color = "black")
 
 #Plot and beautify by faceting based on phyla
 sig_table_C1subp + facet_grid(Phylum~., scales= "free_y", space="free_y", switch = "y") + theme(strip.text.y.left = element_text(angle = 0)) + scale_y_discrete(position = "right") + theme(axis.title.y=element_blank())
